@@ -29,4 +29,35 @@ I help enterprise teams design, migrate, and govern cloud infrastructure on AWS 
 
 | Region | Sector | Engagement |
 |--------|--------|------------|
-| 🇫🇷 France | Petroleum enterprise | End-to-end AWS cloud migration ·
+| 🇫🇷 France | Petroleum enterprise | End-to-end AWS cloud migration · multi-account architecture · security & compliance |
+| 🇬🇧 UK | Retail | FinOps programme · infrastructure governance · AWS cost optimisation |
+| 🇺🇸 US | Enterprise | Security & networking architecture · hub-and-spoke VPC · IAM governance |
+| 🇭🇰 Hong Kong | Retail | On-premises to AWS migration · workload replatforming · operational handover |
+
+---
+
+## Projects & demos
+
+> Building in public — check back for walkthroughs of real-world AWS architectures.
+
+- 🔧 AWS Landing Zone reference implementation (Terraform) — *coming soon*
+- 🔧 FinOps tagging & cost governance baseline — *coming soon*
+- 🔧 Bedrock RAG pipeline on AWS — *coming soon*
+
+---
+
+## Certifications
+
+- AWS Certified Solutions Architect – Professional (2021)
+- AWS Certified Solutions Architect – Associate (2019)
+- HashiCorp Certified: Terraform Associate (2023)
+- AWS Certified Generative AI Professional *(in progress, 2026)*
+- Certified Scrum Master – CSM (2021)
+
+---
+
+## Get in touch
+
+Open to remote consulting engagements, architecture reviews, and fractional cloud architect roles — particularly with European enterprise clients.
+
+📧 [hello@shubhanshu.cloud](mailto:hello@shubhanshu.cloud)  
