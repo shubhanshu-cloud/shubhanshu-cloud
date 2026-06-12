@@ -1,4 +1,4 @@
-# Shubhanshu Jain
+# Shubhanshu
 **Senior Cloud Architect · FinOps · Landing Zones · GenAI · AWS · Terraform**
 
 16 years delivering cloud architecture, migration, and cost governance for enterprise clients across the US, UK, France, and Hong Kong.
