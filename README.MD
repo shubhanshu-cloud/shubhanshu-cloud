@@ -37,12 +37,9 @@ I help enterprise teams design, migrate, and govern cloud infrastructure on AWS 
 ---
 
 ## Projects & demos
-
-> Building in public — check back for walkthroughs of real-world AWS architectures.
-
+- ✅ [FinOps maturity assessment tool](https://github.com/shubhanshu-cloud/finops-tool) — free React app that scores cloud cost practices across 5 domains
+- ✅ [Bedrock code-gen pipeline on AWS](https://github.com/shubhanshu-cloud/codegen-infra) — API Gateway → Lambda → Amazon Nova → S3, built on a versioned, reusable Terraform module library ([`terraform-modules`](https://github.com/shubhanshu-cloud/terraform-modules))
 - 🔧 AWS Landing Zone reference implementation (Terraform) — *coming soon*
-- 🔧 FinOps tagging & cost governance baseline — *coming soon*
-- 🔧 Bedrock RAG pipeline on AWS — *coming soon*
 
 ---
 
