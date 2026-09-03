@@ -1,60 +1,64 @@
 # Shubhanshu Jain
 
-**Senior Cloud Architect · AWS · Terraform · FinOps · Landing Zones · GenAI**
+**AWS Cloud Architect — Banking & Financial Services | Cloud Migration, Infrastructure & Governance**
 
-![Available for engagements](https://img.shields.io/badge/Status-Available%20for%20engagements-brightgreen)
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Pro-FF9900?logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Associate-7B42BC?logo=terraform&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-16%20years-blue)
-
-I help enterprise teams design, migrate, and govern cloud infrastructure on AWS — with a focus on security, cost control, and operational maturity. 16 years across banking, retail, petroleum, and e-commerce sectors, working with clients in the US, UK, France, and Hong Kong.
+Jaipur, India · [shubhanshu.cloud](https://shubhanshu.cloud) · [LinkedIn](https://www.linkedin.com/in/shubhanshu-jain-34a40318)
 
 ---
 
-## What I do
+I design and build multi-account AWS environments for enterprise and regulated financial services workloads — landing zones, hub-and-spoke networking, Terraform infrastructure, and CI/CD.
 
-- **Landing zones & multi-account AWS** — Control Tower, hub-and-spoke networking, security guardrails, org-wide governance
-- **Cloud migration** — on-premises to AWS for enterprise workloads, including replatforming and re-architecture
-- **Security & networking** — IAM governance, Network Firewall, WAF, GuardDuty, VPC design, Transit Gateway, compliance (SOC2, PCI, HIPAA)
-- **FinOps** — cloud cost optimisation, tagging strategy, anomaly detection, spend accountability
-- **Kubernetes platforms** — EKS design, Argo CD, GitOps delivery workflows
-- **GenAI on AWS** — Bedrock, LangChain, LangGraph, RAG pipelines
-- **IaC & CI/CD** — Terraform, GitHub Actions, multi-account pipeline architecture
+15+ years in IT. I started as a core banking developer on Oracle FLEXCUBE, spent seven years running on-premises to AWS migrations, and most recently built the AWS foundation for a US consumer credit and personal finance platform.
+
+The thing I bring that most cloud architects don't: I know how a regulated financial environment actually behaves. Batch windows, release freezes, audit evidence, what an auditor asks for and why. I design with those constraints in the room instead of discovering them at cutover.
 
 ---
 
-## Selected client work
+## What I work on
 
-> Project names withheld due to NDA — details available on request.
+**AWS architecture** — Multi-account environments with separated security, logging, shared services, networking and workload accounts. Well-Architected reviews. Hub-and-spoke connectivity on Transit Gateway.
 
-| Region | Sector | Engagement |
-|--------|--------|------------|
-| 🇫🇷 France | Petroleum enterprise | End-to-end AWS cloud migration · multi-account architecture · security & compliance |
-| 🇬🇧 UK | Retail | FinOps programme · infrastructure governance · AWS cost optimisation |
-| 🇺🇸 US | Enterprise | Security & networking architecture · hub-and-spoke VPC · IAM governance |
-| 🇭🇰 Hong Kong | Retail | On-premises to AWS migration · workload replatforming · operational handover |
+**Cloud migration** — On-premises to AWS. Wave planning, dependency mapping, rehost and replatform, cutover and rollback.
 
----
+**Infrastructure as Code** — Terraform for networking, compute and shared services. GitHub Actions and Argo CD for delivery.
 
-## Projects & demos
-- ✅ [FinOps maturity assessment tool](https://github.com/shubhanshu-cloud/finops-tool) — free React app that scores cloud cost practices across 5 domains
-- ✅ [Bedrock code-gen pipeline on AWS](https://github.com/shubhanshu-cloud/codegen-infra) — API Gateway → Lambda → Amazon Nova → S3, built on a versioned, reusable Terraform module library ([`terraform-modules`](https://github.com/shubhanshu-cloud/terraform-modules))
-- 🔧 AWS Landing Zone reference implementation (Terraform) — *coming soon*
+**Cloud cost optimization (FinOps)** — Tagging and allocation, rightsizing, commitment planning, showback. Delivered a 20% reduction in monthly AWS spend on a prior engagement.
+
+**Security & governance** — IAM boundaries, guardrails, centralised logging, encryption, threat detection, and mapping controls to audit evidence.
 
 ---
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Professional (2021)
-- AWS Certified Solutions Architect – Associate (2019)
-- HashiCorp Certified: Terraform Associate (2023)
-- AWS Certified Generative AI Professional *(in progress, 2026)*
-- Certified Scrum Master – CSM (2021)
+- AWS Certified Solutions Architect — Professional (SAP-C02), 2026
+- AWS Certified Generative AI Developer — Professional (AIP-C01), 2026
+- Certified ScrumMaster (CSM), 2021
 
 ---
 
-## Get in touch
 
-Open to remote consulting engagements, architecture reviews, and fractional cloud architect roles — particularly with European enterprise clients.
 
-📧 [hello@shubhanshu.cloud](mailto:hello@shubhanshu.cloud)  
+---
+
+## Background
+
+| Period | Role |
+|---|---|
+| 2025 – 2026 | Cloud Architecture — GlobalLogic (BFSI: US consumer credit platform) |
+| 2022 – 2023 | Senior Manager, Cloud Architecture — Capgemini |
+| 2015 – 2022 | Technical Lead / Lead Consultant — Infosys |
+| 2008 – 2015 | Application Developer, Oracle FLEXCUBE core banking — Oracle Financial Services Software |
+
+At Oracle FSS I worked on the Messaging and Interactions modules and delivered the annual SWIFT compliance release, aligning the platform with the updated message standards banks are required to adopt each year.
+
+---
+
+## Currently
+
+Writing about AWS architecture and cloud cost management at [shubhanshu.cloud](https://shubhanshu.cloud), and building out the automation tooling above.
+
+Open to cloud architecture and cloud governance roles in banking and financial services.
+
+---
+
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/shubhanshu-jain-34a40318) · [shubhanshu.cloud](https://shubhanshu.cloud)
