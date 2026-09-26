@@ -8,7 +8,7 @@ I design and build multi-account AWS environments for enterprise workloads: land
 
 15+ years in IT, starting as a developer and moving into cloud architecture. I have spent the last several years leading on-premises to AWS migrations and building AWS foundations for production platforms.
 
-What I bring: I design for how enterprise environments actually behave. Release freezes, audit evidence, cost accountability and security guardrails are part of the design from day one, not something discovered at cutover.
+What I bring: I build AWS environments that hold up in production and in audits. Guardrails, cost visibility and change controls go into the design from day one, so nothing has to be retrofitted at cutover.
 
 ## What I work on
 
